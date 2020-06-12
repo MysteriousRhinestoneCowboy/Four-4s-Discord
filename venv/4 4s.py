@@ -4,9 +4,9 @@ import math
 import time
 
 
-token = "NzE2MjIxMzIwODEwOTg3NTky.XtIt-A.2o7BcpoFCnLCwwGrH6-NedcQTXg"
+token = "Put your own bot's token in here"
 client = Client()
-developerID = 179008696628543489
+developerID = "Put your own userID here"
 
 
 class ChannelData:
